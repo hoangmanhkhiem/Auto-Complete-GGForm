@@ -23,6 +23,5 @@ selenium == 2.50.1
 
 -   Step 6: Run code
 
-# Preview
 
-[![Watch the video](vid.mp4)](vid.mp4)
+
